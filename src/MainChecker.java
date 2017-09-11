@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 /**
  * Created by ekaterina on 25.02.17.
+ * Class for test purposed
+ * I was too lazy to always change code in Main Main, so I've written another Main
+ * It just make tests
  */
 public class MainChecker {
     public static void main(String[] args) {
